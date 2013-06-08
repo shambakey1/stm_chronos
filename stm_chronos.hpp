@@ -14,6 +14,7 @@
 #include <chronos/chronos_utils.h>
 #include <vector>
 #include <rstm_hlp.hpp>
+#include "/usr/local/rstm_r5/stm/support/atomic_ops.h"
 
 #define RUN_PRIO 40
 #define END_PRIO 45
