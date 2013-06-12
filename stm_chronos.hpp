@@ -9,6 +9,7 @@
 #define	STM_CHRONOS_HPP
 
 #include "Counter.hpp"
+#include "/usr/local/rstm_r5/stm/cm/ContentionManager.hpp"
 #include <iostream>
 #include <chronos/chronos.h>
 #include <chronos/chronos_utils.h>
